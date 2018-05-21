@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "19122330318",
+    "firebase_url": "https://kolo-d460d.firebaseio.com",
+    "project_id": "kolo-d460d",
+    "storage_bucket": "kolo-d460d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19122330318:android:0e4c6de9bdd1a195",
+        "android_client_info": {
+          "package_name": "com.latsykroman.kolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19122330318-8m04rmatitq7bv342n92okqih90cn7nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latsykroman.kolo",
+            "certificate_hash": "5882741b72a04cb707fc5a12d55c01e391cd4216"
+          }
+        },
+        {
+          "client_id": "19122330318-ts82oeoevu73fdjb47p7ni4pvobba7l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIzICB_PM8ZuRdcbBGln6iZIRDgX8pWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19122330318-ts82oeoevu73fdjb47p7ni4pvobba7l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
